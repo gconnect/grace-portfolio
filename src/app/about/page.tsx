@@ -57,7 +57,7 @@ export default function About() {
             className="h-full"
           >
             <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl bg-white">
-              <img src="/grace.png" alt="Grace Olajide Odunlade" className="w-full h-full object-cover" />
+              <img src="/grace-portfolio/grace.png" alt="Grace Olajide Odunlade" className="w-full h-full object-cover" />
             </div>
           </motion.div>
         </div>

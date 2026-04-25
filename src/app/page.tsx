@@ -88,7 +88,7 @@ export default function Home() {
               className="relative h-full flex items-center justify-center"
             >
               <div className="relative w-full aspect-square rounded-3xl overflow-hidden shadow-2xl border-8 border-white bg-white">
-                <img src="/grace.png" alt="Grace Olajide Odunlade" className="object-cover w-full h-full" />
+                <img src="/grace-portfolio/grace.png" alt="Grace Olajide Odunlade" className="object-cover w-full h-full" />
               </div>
             </motion.div>
           </div>
