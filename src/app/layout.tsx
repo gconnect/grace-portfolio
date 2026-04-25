@@ -18,6 +18,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: "Grace Olajide Odunlade | Wellness, Advocacy & Travel",
   description: "Empowering Wellness, Advocating for Women, Connecting You to the World. Professional portfolio of Grace Olajide Odunlade.",
+  icons: {
+    icon: "/grace-portfolio/grace.png",
+  },
 };
 
 export default function RootLayout({
